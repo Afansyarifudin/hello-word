@@ -1,3 +1,3 @@
 # hello-word
-hi everyone 
+Hi everyone 
 Afan here. I like coding
